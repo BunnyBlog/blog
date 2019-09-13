@@ -1,0 +1,46 @@
+#+options: ':nil -:nil ^:{} num:nil toc:nil author:nil
+#+title: SQL学习
+#+creator: Emacs 27.0.50 (Org mode 9.2.6 + ox-hugo)
+#+hugo_front_matter_format: toml
+#+hugo_level_offset: 1
+#+hugo_preserve_filling:
+#+hugo_delete_trailing_ws:
+#+hugo_section: post
+#+hugo_bundle:
+#+hugo_base_dir:../
+#+hugo_code_fence:
+#+hugo_use_code_for_kbd:
+#+hugo_prefer_hyphen_in_tags:
+#+hugo_allow_spaces_in_tags:
+#+hugo_auto_set_lastmod:
+#+hugo_custom_front_matter:
+#+hugo_blackfriday:
+#+hugo_front_matter_key_replace:
+#+hugo_aliases:
+#+date: <2019-01-19 Sat>
+#+description:
+#+hugo_draft:
+#+hugo_expirydate:
+#+hugo_headless:
+#+hugo_iscjklanguage:
+#+keywords:
+#+hugo_layout:
+#+hugo_lastmod:
+#+hugo_linktitle:
+#+hugo_markup:
+#+hugo_menu:
+#+hugo_menu_override:
+#+hugo_outputs:
+#+hugo_publishdate:
+#+hugo_slug:
+#+hugo_tags:SQL MySQL  数据库
+#+hugo_categories:编程
+#+hugo_resources:
+#+hugo_type:
+#+hugo_url:
+#+hugo_weight:
+
+
+最近学习数据库，其实在大一下（2016年3月）计算机课程里学过，教材是《数据处理与管理》，人民邮电出版社，2015版<!-- more -->，
+在豆瓣读书买了人邮电子版的[[https://read.douban.com/people/156131902/][《SQL必知必会》（第4版）]]，刚开始是在学习图书馆win7 32位电脑上
+用Microsoft Access 2010 学习，寒假转iMac，发现没有Access这个软件，所以下了MySQL学习，差别还是很大的！

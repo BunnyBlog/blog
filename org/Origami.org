@@ -1,0 +1,69 @@
+# -*- coding: utf-8 -*-
+#+options: ':nil -:nil ^:{} num:nil toc:nil author:nil
+#+creator: Emacs 27.0.50 (Org mode 9.2.6 + ox-hugo)
+#+hugo_front_matter_format: toml
+#+hugo_level_offset: 1
+#+hugo_preserve_filling:
+#+hugo_delete_trailing_ws:
+#+hugo_section: post
+#+hugo_bundle:
+#+hugo_base_dir:../
+#+hugo_code_fence:
+#+hugo_use_code_for_kbd:
+#+hugo_prefer_hyphen_in_tags:
+#+hugo_allow_spaces_in_tags:
+#+hugo_auto_set_lastmod:
+#+hugo_custom_front_matter:
+#+hugo_blackfriday:
+#+hugo_front_matter_key_replace:
+#+hugo_aliases:
+#+description:
+#+hugo_draft:
+#+hugo_expirydate:
+#+hugo_headless:
+#+hugo_iscjklanguage:
+#+keywords:
+#+hugo_layout:
+#+hugo_lastmod:
+#+hugo_linktitle:
+#+hugo_markup:
+#+hugo_menu:
+#+hugo_menu_override:
+#+hugo_outputs:
+#+hugo_publishdate:
+#+hugo_slug:
+#+hugo_tags:origami
+#+hugo_categories:随笔
+#+hugo_resources:
+#+hugo_type:
+#+hugo_url:
+#+hugo_weight:
+
+
+#+title: Origami 书籍及公开课介绍
+#+date: <2019-07-13 周六>
+
+[[http://langorigami.com/][Robert.J.Lang]] 是当之为愧的折纸大师，可以先看看这个 TED 视频：
+#+begin_comment
+Copied from TeD
+#+end_comment
+#+begin_export html
+<div style="max-width:854px">
+  <div style="position:relative;height:0;padding-bottom:56.25%">
+    <iframe
+      src="https://embed.ted.com/talks/robert_lang_folds_way_new_origami"
+      width="854"
+      height="480"
+      style="position:absolute;left:0;top:0;width:100%;height:100%"
+      frameborder="0"
+      scrolling="no"
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
+#+end_export
+
+Robert 有一本书可谓折纸“圣经”——[[https://langorigami.com/publication/origami-design-secrets-2nd-edition/][Origami Design Secrets: Mathematical Methods for an Ancient Art, 2nd Edition]]，在这本书的致谢部分提到了一位“神童”，他就是 [[http://erikdemaine.org/][Erik Demaine]]，
+算法导论授课者之一，他的课程 [[http://courses.csail.mit.edu/6.849/spring17/][6.849: Geometric Folding Algorithms: Linkages, Origami, Polyhedra]] 讲授几何折叠算法，包括 Origami，配套教材就是上面提到的 Robert 的书还有自己
+写的那本 [[http://www.gfalop.org/][Geometric Folding Algorithms: Linkages, Origami, Polyhedra]]。想做手工的可以参考这两本教材，上班族可以自行在书籍配套网站找购买链接，学生可以在学校购买的数据库中搜一下
+电子版。目前为止，母校数据库前者只能找到第 1 版。

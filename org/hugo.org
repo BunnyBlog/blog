@@ -1,0 +1,72 @@
+#+options: ':nil -:nil ^:{} num:nil toc:nil author:nil creator:t
+#+creator: Emacs 27.0.50 (Org mode 9.2.6 + ox-hugo)
+#+hugo_front_matter_format: toml
+#+hugo_level_offset: 1
+#+hugo_preserve_filling:
+#+hugo_delete_trailing_ws:
+#+hugo_section: post
+#+hugo_bundle:
+#+hugo_base_dir:../
+#+hugo_code_fence:
+#+hugo_use_code_for_kbd:
+#+hugo_prefer_hyphen_in_tags:
+#+hugo_allow_spaces_in_tags:
+#+hugo_auto_set_lastmod:
+#+hugo_custom_front_matter:
+#+hugo_blackfriday:
+#+hugo_front_matter_key_replace:
+#+hugo_aliases:
+#+date: <2019-09-12 Thu>
+#+description:
+#+hugo_expirydate:
+#+hugo_headless:
+#+hugo_iscjklanguage:
+#+keywords:
+#+hugo_layout:
+#+hugo_lastmod:
+#+hugo_linktitle:
+#+hugo_markup:
+#+hugo_menu:
+#+hugo_menu_override:
+#+hugo_outputs:
+#+hugo_publishdate:
+#+hugo_slug:
+#+hugo_resources:
+#+hugo_type:
+#+hugo_url:
+#+hugo_weight:
+#+title: Writing Hugo blog in Org (File Export)
+
+#+hugo_tags: hugo org-mode
+#+hugo_categories: emacs
+#+hugo_custom_front_matter: :foo bar :baz zoo :alpha 1 :beta "two words" :gamma 10
+#+hugo_draft: false
+
+* 阅读次数显示问题
+
+* 去掉文章作者/上次更新
+
+* 字体问题
+
+* 访客数 
+
+* TODO org 文件目录 toc:nil 为啥还会显示
+
+* DONE about
+
+* TODO 置顶博客
+
+* DONE 引用
+=这是引用=
+
+* i18n
+
+* author:nil, delete author and add title, if error.
+
+* even theme: #+hugo_section: post
+
+* hugo_tags: Microsoft Access 2010
+
+* images
+
+* 阅读更多

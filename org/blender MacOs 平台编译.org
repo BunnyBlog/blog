@@ -1,0 +1,50 @@
+#+options: ':nil -:nil ^:{} num:nil toc:nil author:nil
+#+title: blender MacOS 平台编译
+#+creator: Emacs 27.0.50 (Org mode 9.2.6 + ox-hugo)
+#+hugo_front_matter_format: toml
+#+hugo_level_offset: 1
+#+hugo_preserve_filling:
+#+hugo_delete_trailing_ws:
+#+hugo_section: post
+#+hugo_bundle:
+#+hugo_base_dir:../
+#+hugo_code_fence:
+#+hugo_use_code_for_kbd:
+#+hugo_prefer_hyphen_in_tags:
+#+hugo_allow_spaces_in_tags:
+#+hugo_auto_set_lastmod:
+#+hugo_custom_front_matter:
+#+hugo_blackfriday:
+#+hugo_front_matter_key_replace:
+#+hugo_aliases:
+#+date: <2019-03-31 Sun>
+#+description:
+#+hugo_draft:
+#+hugo_expirydate:
+#+hugo_headless:
+#+hugo_iscjklanguage:
+#+keywords:
+#+hugo_layout:
+#+hugo_lastmod:
+#+hugo_linktitle:
+#+hugo_markup:
+#+hugo_menu:
+#+hugo_menu_override:
+#+hugo_outputs:
+#+hugo_publishdate:
+#+hugo_slug:
+#+hugo_tags:
+#+hugo_categories:
+#+hugo_resources:
+#+hugo_type:
+#+hugo_url:
+#+hugo_weight:
+
+
+=系统版本：	macOS 10.14.4 (18E226)=
+
+=内核版本：	Darwin 18.5.0=
+
+因为3.30早上刷微博看到网友转发的德国脑洞广告，毅然决定参加Blender的GSoC活动。
+
+[[https://www.cainiaofly.com/2018/12/20/100.html][报错记录]]

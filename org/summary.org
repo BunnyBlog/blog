@@ -1,0 +1,73 @@
+#+options: ':nil -:nil ^:{} num:nil toc:nil author:nil
+#+title: 回顾 2018
+#+creator: Emacs 27.0.50 (Org mode 9.2.6 + ox-hugo)
+#+hugo_front_matter_format: toml
+#+hugo_level_offset: 1
+#+hugo_preserve_filling:
+#+hugo_delete_trailing_ws:
+#+hugo_section: post
+#+hugo_bundle:
+#+hugo_base_dir:../
+#+hugo_code_fence:
+#+hugo_use_code_for_kbd:
+#+hugo_prefer_hyphen_in_tags:
+#+hugo_allow_spaces_in_tags:
+#+hugo_auto_set_lastmod:
+#+hugo_custom_front_matter:
+#+hugo_blackfriday:
+#+hugo_front_matter_key_replace:
+#+hugo_aliases:
+#+date: <2018-12-31 Mon>
+#+description:
+#+hugo_draft:
+#+hugo_expirydate:
+#+hugo_headless:
+#+hugo_iscjklanguage:
+#+keywords:
+#+hugo_layout:
+#+hugo_lastmod:
+#+hugo_linktitle:
+#+hugo_markup:
+#+hugo_menu:
+#+hugo_menu_override:
+#+hugo_outputs:
+#+hugo_publishdate:
+#+hugo_slug:
+#+hugo_tags:随笔
+#+hugo_categories:年度总结
+#+hugo_resources:
+#+hugo_type:
+#+hugo_url:
+#+hugo_weight:
+
+
+    抑郁了一年，2月份复习跨考本校 CS，没成想记笔记爱上了LaTeX，一发不可收拾！最终放弃了考研，心里想得太多！
+
+#+begin_export html
+<div align="middle"><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=189931&auto=0&height=32"></iframe></div>
+#+end_export
+
+列一下今年的书单：
+
+
+1. 上半年 Discrete Mathematics and Its Applications 7e
+
+原本是为学习数据结构打基础，看了 3 个月，只看到了 Graph 部分。
+
+
+2. 下半年 Introduction to Algorithms 3e
+
+看完了排序部分，不是很理解，分治思想和动态规划了解一点点。
+用 Python 实现的伪代码，现在白纸上画一下算法运行效果，然后在 Spyder 里实现一下。
+最先接触 Python 还是17年暑假北理工的中国大学 MOOC，一上来就是 turtle 库，看不懂遂放弃，12月份去看廖雪峰的Python教程，那时候流行的还是python2.x，18年暑假在edx上修了[[https://www.edx.org/course/6-00-1x-introduction-to-computer-science-and-programming-using-python-3][MIT6.001x]]，跳过了OOP，感觉还是学到了很多，诸如黑盒白盒测试。
+
+
+3. C Primer Plus
+
+[[https://www.edx.org/es/course/cs50s-introduction-computer-science-harvardx-cs50x][CS50]] 里对C的学习从一个小工程开始，比打印一个Hello,World有趣多了，后来看C Primer Plus，在图书馆里用 iMac 上的 VScode + Xcode的gcc编译器算是基本看完，变量生命周期没有看，不过了解一点 Java，在 Java 语言里这个概念体现的比较多。
+
+学编程的初衷是 NLP，绕了一大圈还是回到了这里，10月份看吴恩达的Coursera[[https://www.coursera.org/learn/machine-learning][机器学习]]，也是心急气躁，看了一半。
+
+以上书籍均可在 library genesis 找到电子版。
+
+2019 不知道怎么走下去，现在在改开题报告，秋招都没参加。。。
